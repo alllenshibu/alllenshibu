@@ -1,4 +1,4 @@
-# I'm a Computer Science and Engineering Student @ MEC 
+# I'm a Computer Science and Engineering Student
 
 - 👨‍💻 I’m doing my BTech in CSE from Model Engineering College, Thrikkakkara
 - 📚 I love web development and I'm learning Tailwind CSS now
@@ -6,7 +6,7 @@
 
 ---
 
-# Languages and Tools 🛠 
+# Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
